@@ -16,8 +16,8 @@ WiFiClient client;
 #define ALTITUDE 1655.0 // Altitude in meters
 
 String apiKey = "FKJET83YUM1QOG26";
-const char *ssid =  "V2031";
-const char *pass =  "prajwal33";
+const char *ssid =  "****";
+const char *pass =  "******";
 const char* server = "api.thingspeak.com";
 
 
